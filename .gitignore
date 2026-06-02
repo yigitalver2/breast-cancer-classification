@@ -1,0 +1,14 @@
+# Python virtual environment (machine-specific, ~573MB)
+venv/
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Playwright browser cache
+ms-playwright/
